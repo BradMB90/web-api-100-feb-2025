@@ -23,3 +23,5 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run(); //a blocking infinite for loop.
+
+public partial class Program { }
